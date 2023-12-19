@@ -1,6 +1,5 @@
 - Hi, I’m @Rynzier
 - I’m interested in game and software development
-- I’m currently learning C#, Monogame, and OpenGL
 - You can contact me at rynziez@gmail.com
 
 <!---
